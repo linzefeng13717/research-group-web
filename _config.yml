@@ -1,5 +1,5 @@
 name: Awesome Research Group
-url: http://awesome.example.edu
+url: http://127.0.0.1
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
